@@ -1,1 +1,1 @@
-This repository contains assignments from the discipline 'Machine Learning' 
+This repository contains tasks from the discipline 'Machine Learning' 
